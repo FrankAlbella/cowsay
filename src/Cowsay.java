@@ -1,3 +1,6 @@
+// School project for COP3502
+// University of Florida
+
 import java.util.HashMap;
 
 public class Cowsay {
